@@ -1,5 +1,5 @@
 # Greek-Alphabet-Alfred-Snippet
-![icon](https://raw.githubusercontent.com/LiSongcheng/Greek-Alphabet-Alfred-Snippet/master/icon.tiff)  
+![icon](https://raw.githubusercontent.com/LiSongcheng/Greek-Alphabet-Alfred-Snippet/master/icon.png)  
 A Greek alphabet collection for Alfred Snippet. There are 54 letters, some come with their variation form, e.g. rho(varrho), epsilon(varepsilon). 
 
 ## Install

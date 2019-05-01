@@ -1,10 +1,12 @@
-# Greek-Alphabet-Alfred-Snippet
 ![icon](https://raw.githubusercontent.com/LiSongcheng/Greek-Alphabet-Alfred-Snippet/master/icon.png)  
-A Greek alphabet collection for Alfred Snippet. There are 54 letters, some come with their variation form, e.g. rho(varrho), epsilon(varepsilon). 
+---
+> A Greek alphabet Alfred Snippet. 
 
-## Install
-Installation of Alfred is required.
-Download this repository via the green botton on the page, and open it in Alfred.
+There are 54 letters, some come with their variation form, e.g. rho(varrho), epsilon(varepsilon). 
+
+## Installation
+[Alfred](https://www.alfredapp.com/) is required.
+Download the file [GreekAlphabet.alfredsnippets](https://github.com/BaksiLi/Greek-Alphabet-Alfred-Snippet/blob/master/GreekAlphabet.alfredsnippets)
 
 Activate your snippet using Hotkey or `snip` in Alfred, type the keyword therefore paste the letter.
 The keywords of all the snippets starts with `;`.
